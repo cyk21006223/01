@@ -1,0 +1,4 @@
+问题1：accumulatator=bob*dole （）
+问题2：这个程序的返回值是1
+问题3：把“number - -”改为“number --”；把“ .\ n ”改为“ .\n ”
+问题4：n04.cpp
